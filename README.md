@@ -1,3 +1,5 @@
+Testing git; i still dont really know what im doing :)
+
 ![](documentation/logo.png)
 # µDIC: A Python toolkit for Digital Image Correlation (DIC)
 [![CircleCI](https://circleci.com/gh/PolymerGuy/muDIC.svg?style=svg)](https://circleci.com/gh/PolymerGuy/muDIC) [![codecov](https://codecov.io/gh/PolymerGuy/muDIC/branch/master/graph/badge.svg)](https://codecov.io/gh/PolymerGuy/muDIC) [![Documentation Status](https://readthedocs.org/projects/mudic/badge/?version=latest)](https://mudic.readthedocs.io/en/latest/?badge=latest)[![PyPI version](https://badge.fury.io/py/muDIC.svg)](https://badge.fury.io/py/muDIC)
